@@ -1,2 +1,2 @@
 # hello-world
-getting my bearings in GitHub
+Getting my bearings in GitHub.  A Sql Programmer expanding her world.
